@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheetahTest</string>
+    <string name="retry">Retry</string>
+    <string name="x">x</string>
+    <string name="unit_weight">Weight</string>
+    <string name="unit_unit">Unit</string>
+    <string name="unit_case">Case</string>
+    <string name="search">Search</string>
+    <string name="total">Total:</string>
+</resources>
